@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bireet</string>
+    <string name="textviewContent">Enter the name</string>
+    <string name="edittextContent">Taylor</string>
+    <string name="buttonContent">Create Birthday Card</string>
+
+</resources>
